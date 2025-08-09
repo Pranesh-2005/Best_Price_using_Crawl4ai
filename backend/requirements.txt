@@ -1,3 +1,5 @@
 flask
 flask-cors
 crawl4ai
+gunicorn
+playwright
